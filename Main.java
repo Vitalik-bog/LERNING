@@ -7,7 +7,7 @@ Scanner in = new Scanner(System.in);
 System.out.println("Enter array length");
 int a = in.nextInt();
 int arrey[] = new int[a];
-System.out.println("элемент массива");
+System.out.println("Элемент массива");
 for (int b = 0; b < a; b++) {
 arrey[b] = in.nextInt();
 }
