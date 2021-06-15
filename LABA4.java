@@ -12,7 +12,7 @@ public class Main {
         double m=in.nextDouble();
         System.out.println("s");
         double s=in.nextDouble();
-        System.out.println("s1");
+        System.out.println("s");
         double s1=in.nextDouble();
         double p=0;
         for (int i=1;i<=n;i++){
