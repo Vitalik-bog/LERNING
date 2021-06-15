@@ -4,7 +4,7 @@ import java.io.*;
 public class Main {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        File f = new File("S:\\Javalabs\\LabText.txt");
+        File f = new File("S:\\Javalabs\\labvitalik.txt");
         BufferedReader fin = new BufferedReader(new FileReader(f));
         String name;
         String line;
